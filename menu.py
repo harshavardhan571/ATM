@@ -1,10 +1,1 @@
-def menu():
-    print("-"*20)
-    print("-"*8,"1 for deposit","-"*8)
-    print("-"*20)
-    print("-"*20)
-    print("-"*8,"2 for withdraw","-"*8)
-    print("-"*20)
-    print("-"*20)
-    print("-"*8,"3 for balanceenquiry","-"*8)
-    print("-"*20)
+
