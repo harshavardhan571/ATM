@@ -1,6 +1,5 @@
 from execute import *
 from errors import *
-from menu import *
 
 import tkinter as tk
 from tkinter import messagebox
