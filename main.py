@@ -50,5 +50,4 @@ tk.Button(root, text="2. Withdraw", width=20, command=lambda: run_action(2)).pac
 tk.Button(root, text="3. Balance Enquiry", width=20, command=lambda: run_action(3)).pack(pady=5)
 tk.Button(root, text="Exit", width=20, command=root.destroy).pack(pady=20)
 
-# Start the GUI loop
 root.mainloop()
